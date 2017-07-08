@@ -1,6 +1,6 @@
 import java.util.*;
 import rxtxrobot.*;
-public class Test1 {
+public class Robot {
     
     public static RXTXRobot sensors = new ArduinoNano();
     public static RXTXRobot motors = new ArduinoNano();
